@@ -5,7 +5,7 @@ EAPI=8
 
 DESCRIPTION="Play snake in your terminal"
 HOMEPAGE="https://github.com/3elDU/snake"
-SRC_URI="https://github.com/3elDU/snake/archive/refs/heads/main.tar.gz"
+SRC_URI="https://github.com/3elDU/snake/archive/refs/heads/master.tar.gz"
 
 LICENSE="GPL-3"
 SLOT="0"
