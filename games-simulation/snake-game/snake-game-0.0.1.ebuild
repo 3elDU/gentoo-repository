@@ -15,7 +15,7 @@ DEPEND="sys-libs/ncurses"
 RDEPEND="${DEPEND}"
 BDEPEND=""
 
-S="${WORKDIR}/snake-main"
+S="${WORKDIR}/snake-master"
 
 src_compile() {
 	emake
